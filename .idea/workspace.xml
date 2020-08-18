@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07252912-5c5d-491d-9d00-dc35f375b706" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1gFvjNclGGymquGwYesNxdfaeO2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoImportsTaskConsumer" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2675" y="390" width="400" height="334" key="#Go_Modules" timestamp="1597723688140">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2675" y="390" width="400" height="334" key="#Go_Modules/1920.0.1920.1080/72.27.1848.1053@1920.0.1920.1080" timestamp="1597723688140" />
+    <state x="631" y="321" width="719" height="452" key="EditFileWatcherDialog" timestamp="1597725553425">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="631" y="321" width="719" height="452" key="EditFileWatcherDialog/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1597725553425" />
+    <state x="646" y="207" width="1022" height="737" key="SettingsEditor" timestamp="1597725620506">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="646" y="207" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1597725620506" />
+    <state x="659" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1597725231923">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1597725231923" />
+  </component>
+</project>
